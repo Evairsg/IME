@@ -1,6 +1,10 @@
 # Variação da renda no transporte
 
-Esse projeto tem como objetivo calcular a variação da renda por domicilio particular permanente no trajeto dos transportes publicos do municipio de São Paulo
+Esse projeto tem como objetivo calcular a variação da renda por domicilio particular permanente no trajeto dos transportes publicos do municipio de São Paulo.
+
+Na pasta mapa do kepler contem o arquivo que pode ser utilizado no https://kepler.gl/ para visualização interativa do resultado até o momento.
+
+![Variação da renda nas linhas de transporte em São Paulo](https://github.com/Evairsg/VariacaoRendaTransporte/blob/master/Mapa%20do%20Kepler/img/Captura%20de%20tela%20de%202019-02-02%2012-49-01.png)
 
 Fontes:
 
